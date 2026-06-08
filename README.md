@@ -68,11 +68,6 @@ I am a software engineer based in Vietnam, specialized in cross-platform mobile 
 
 ### 📊 GitHub Insights & Metrics
 
-#### 🏆 Achievements & Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ntbch&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" alt="ntbch's Trophies" width="100%" />
-</div>
-
 #### 📈 Contribution Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ntbch&theme=tokyonight&bg_color=1a1b26&color=38bdf8&line=38bdf8&point=7aa2f7&area=true&hide_border=true" alt="ntbch's Activity Graph" width="100%" />
