@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bach%20Nguyen&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Mobile%20%26%20Full-Stack%20Engineer&descAlignY=58&descAlign=50" width="100%" />
+<!-- Typing SVG Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=30&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Bach+Nguyen!+%F0%9F%9A%80;Mobile+%26+Full-Stack+Engineer;Flutter+%26+Laravel+Enthusiast;Currently+learning+Japanese+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Crafting+pixel-perfect+mobile+experiences+%F0%9F%93%B1;Building+scalable+web+architectures+%F0%9F%8C%90;Clean+code+%7C+SOLID+principles+%7C+Clean+Architecture+%E2%9C%A8;Currently+conquering+Japanese+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+<p align="center">
+  <strong>Crafting clean cross-platform mobile interfaces & scalable web architectures.</strong>
+</p>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ntbch&label=Profile+Views&color=38BDF8&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/ntbch?style=for-the-badge&color=38BDF8&label=Followers" />
-<img src="https://img.shields.io/badge/🇻🇳-Vietnam%20GMT%2B7-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Vietnam-🇻🇳-red?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Timezone-GMT%2B7-38BDF8?style=flat-square" alt="Timezone" />
+  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web-green?style=flat-square" alt="Focus" />
+</p>
 
 ---
 
