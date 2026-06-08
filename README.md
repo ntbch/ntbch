@@ -49,15 +49,6 @@ I am a software engineer based in Vietnam, specialized in cross-platform mobile 
         flutter pub get
         flutter run
         ```
-*   **[Japanese-Learning-App](https://github.com/ntbch/Japanese-Learning-App)** — Visual study companion for language learners.
-    *   *Core Stack:* Flutter, Dart, SQLite.
-    *   *Local Launch:*
-        ```bash
-        git clone https://github.com/ntbch/Japanese-Learning-App.git
-        cd Japanese-Learning-App
-        flutter pub get
-        flutter run
-        ```
 
 #### 🌐 Full-Stack Web Applications
 *   **[Personal-Finance-Management](https://github.com/ntbch/Personal-Finance-Management)** — Financial tracking dashboard.
@@ -92,22 +83,28 @@ I am a software engineer based in Vietnam, specialized in cross-platform mobile 
 *   **[OOP_N01_Term3_2025_K17_Group9](https://github.com/ntbch/OOP_N01_Term3_2025_K17_Group9)** — SOLID design pattern templates.
     *   *Core Stack:* Java.
 
----
+### 📊 GitHub Insights & Metrics
 
-### 📊 Developer Insights & Specs
+#### 🏆 Achievements & Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ntbch&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" alt="ntbch's Trophies" width="100%" />
+</div>
 
-*Due to frequent rate-limiting on third-party statistics servers, your developer metrics are structured below as a static spec sheet to ensure 100% visibility uptime.*
+#### 📈 Contribution Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ntbch&theme=tokyonight&bg_color=1a1b26&color=38bdf8&line=38bdf8&point=7aa2f7&area=true&hide_border=true" alt="ntbch's Activity Graph" width="100%" />
+</div>
 
-| Metric | Value / Scope |
-|---|---|
-| **Public Repositories** | 8 |
-| **Primary Code Focus** | Dart (Flutter), PHP (Laravel), Python (Jupyter) |
-| **System Patterns** | Clean Architecture, MVC, Object-Oriented Programming (OOP) |
-| **Current Target** | Building interactive cross-platform layouts & learning Japanese 🇯🇵 |
-
+#### 📊 Core Developer Metrics
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntbch&theme=tokyonight" alt="GitHub Streak" width="97%" />
+    <img src="https://github-stats-extended.vercel.app/api?username=ntbch&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </p>
+  <p align="center">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ntbch&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntbch&theme=tokyonight" alt="GitHub Streak" />
   </p>
 </div>
 
@@ -119,7 +116,7 @@ I am a software engineer based in Vietnam, specialized in cross-platform mobile 
 
 | Protocol | Address |
 |---|---|
-| **SMTP / Email** | [`nguyenbachtung181@gmail.com`](mailto:nguyenbachtung181@gmail.com) |
+| **SMTP / Email** | [`ntbch.work@gmail.com`](mailto:ntbch.work@gmail.com) |
 | **GitHub URI** | [`github.com/ntbch`](https://github.com/ntbch) |
 
 </div>
