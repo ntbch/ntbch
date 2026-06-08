@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1200&color=8AB4F8&center=true&vCenter=true&width=620&height=70&lines=こんにちは,+I'm+Bach+Nguyen;Mobile+%26+Full-Stack+Developer;Technology+%C3%97+Japan+%C3%97+Minimalism;Build+with+Clean+Code+and+Kaizen" alt="Typing SVG" />
