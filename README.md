@@ -35,53 +35,36 @@ I am a software engineer based in Vietnam, specialized in cross-platform mobile 
 
 </div>
 
+### 🚀 Featured Projects
+
+#### 📱 Mobile Engineering
+- **[mobile](https://github.com/ntbch/mobile)**  
+  *A high-fidelity cross-platform mobile application built with Flutter/Dart. Engineered with clean architecture principles for native performance.*  
+  `Flutter` `Dart` `Clean Architecture`
+- **[Japanese-Learning-App](https://github.com/ntbch/Japanese-Learning-App)**  
+  *A visual study companion designed to make vocabulary, grammar, and Kanji learning intuitive and highly interactive.*  
+  `Flutter` `Dart` `SQLite` `State Management`
+
+#### 🌐 Full-Stack Web Development
+- **[Personal-Finance-Management](https://github.com/ntbch/Personal-Finance-Management)**  
+  *A Laravel and Blade web dashboard for tracking personal finance, managing accounts, budgeting, and transaction reporting.*  
+  `Laravel` `PHP` `Blade` `MySQL`
+- **[PHP-Laravel-Web-Project](https://github.com/ntbch/PHP-Laravel-Web-Project)**  
+  *A secure, interactive web system connecting robust Laravel REST APIs to a responsive Vue.js frontend.*  
+  `Laravel` `Vue.js` `REST API` `Tailwind`
+- **[web-nang-cao](https://github.com/ntbch/web-nang-cao)**  
+  *An advanced MVC-focused web application exploring custom routing, database migrations, and clean OOP conventions.*  
+  `PHP` `Laravel` `Blade` `MVC`
+
+#### 📊 Data Analysis & OOP
+- **[Sales-Analysis-and-Forecasting](https://github.com/ntbch/Sales-Analysis-and-Forecasting)**  
+  *A Jupyter Notebook data science workflow investigating historical retail trends, cleaning data, and training predictive forecasting models.*  
+  `Python` `Jupyter Notebook` `Pandas` `Scikit-Learn`
+- **[OOP_N01_Term3_2025_K17_Group9](https://github.com/ntbch/OOP_N01_Term3_2025_K17_Group9)**  
+  *Collaborative Java codebase demonstrating Object-Oriented design patterns, SOLID principles, and clean system interfaces.*  
+  `Java` `OOP` `SOLID`
+
 ---
-
-### 🚀 Featured Repositories & Local Setup
-
-#### 📱 Cross-Platform Mobile Apps
-*   **[mobile](https://github.com/ntbch/mobile)** — High-fidelity mobile application.
-    *   *Core Stack:* Flutter, Dart, Clean Architecture.
-    *   *Local Launch:*
-        ```bash
-        git clone https://github.com/ntbch/mobile.git
-        cd mobile
-        flutter pub get
-        flutter run
-        ```
-
-#### 🌐 Full-Stack Web Applications
-*   **[Personal-Finance-Management](https://github.com/ntbch/Personal-Finance-Management)** — Financial tracking dashboard.
-    *   *Core Stack:* Laravel, Blade, MySQL.
-    *   *Local Launch:*
-        ```bash
-        git clone https://github.com/ntbch/Personal-Finance-Management.git
-        cd Personal-Finance-Management
-        composer install
-        cp .env.example .env
-        php artisan key:generate
-        php artisan migrate --seed
-        php artisan serve
-        ```
-*   **[PHP-Laravel-Web-Project](https://github.com/ntbch/PHP-Laravel-Web-Project)** — Dynamic client-server web portal.
-    *   *Core Stack:* Laravel Backend APIs, Vue.js Frontend.
-    *   *Local Launch:*
-        ```bash
-        git clone https://github.com/ntbch/PHP-Laravel-Web-Project.git
-        cd PHP-Laravel-Web-Project
-        composer install && npm install
-        cp .env.example .env
-        php artisan key:generate
-        php artisan migrate
-        npm run dev # start frontend compilation
-        php artisan serve
-        ```
-
-#### 📊 Data Analysis & OOP Labs
-*   **[Sales-Analysis-and-Forecasting](https://github.com/ntbch/Sales-Analysis-and-Forecasting)** — Jupyter Notebook predictive models.
-    *   *Core Stack:* Python, Scikit-Learn, Pandas.
-*   **[OOP_N01_Term3_2025_K17_Group9](https://github.com/ntbch/OOP_N01_Term3_2025_K17_Group9)** — SOLID design pattern templates.
-    *   *Core Stack:* Java.
 
 ### 📊 GitHub Insights & Metrics
 
