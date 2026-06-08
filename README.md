@@ -1,100 +1,145 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=30&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Bach+Nguyen!+%F0%9F%9A%80;Mobile+%26+Full-Stack+Engineer;Flutter+%26+Laravel+Enthusiast;Currently+learning+Japanese+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bach%20Nguyen&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Mobile%20%26%20Full-Stack%20Engineer&descAlignY=58&descAlign=50" width="100%" />
 
-<p align="center">
-  <strong>Crafting clean cross-platform mobile interfaces & scalable web architectures.</strong>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Crafting+pixel-perfect+mobile+experiences+%F0%9F%93%B1;Building+scalable+web+architectures+%F0%9F%8C%90;Clean+code+%7C+SOLID+principles+%7C+Clean+Architecture+%E2%9C%A8;Currently+conquering+Japanese+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Vietnam-🇻🇳-red?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Timezone-GMT%2B7-38BDF8?style=flat-square" alt="Timezone" />
-  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web-green?style=flat-square" alt="Focus" />
-</p>
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=ntbch&label=Profile+Views&color=38BDF8&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/ntbch?style=for-the-badge&color=38BDF8&label=Followers" />
+<img src="https://img.shields.io/badge/🇻🇳-Vietnam%20GMT%2B7-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge" />
 
-</div>
-
-### ⚡ System Profile & About Me
-
-I am a software engineer based in Vietnam, specialized in cross-platform mobile application development and full-stack web architectures. My design philosophy centers on clean code conventions, SOLID design principles, and highly interactive user interfaces.
-
----
-
-### 💻 Tech Stack & Dependencies
-
-<div align="center">
-
-| Domain | Technologies |
-|---|---|
-| **Mobile Core** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| **Web Architectures** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Blade](https://img.shields.io/badge/Blade-e05243?style=flat-square&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Data & Systems** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-
-</div>
-
-### 🚀 Featured Projects
-
-#### 📱 Mobile Engineering
-- **[mobile](https://github.com/ntbch/mobile)**  
-  *A high-fidelity cross-platform mobile application built with Flutter/Dart. Engineered with clean architecture principles for native performance.*  
-  `Flutter` `Dart` `Clean Architecture`
-- **[Japanese-Learning-App](https://github.com/ntbch/Japanese-Learning-App)**  
-  *A visual study companion designed to make vocabulary, grammar, and Kanji learning intuitive and highly interactive.*  
-  `Flutter` `Dart` `SQLite` `State Management`
-
-#### 🌐 Full-Stack Web Development
-- **[Personal-Finance-Management](https://github.com/ntbch/Personal-Finance-Management)**  
-  *A Laravel and Blade web dashboard for tracking personal finance, managing accounts, budgeting, and transaction reporting.*  
-  `Laravel` `PHP` `Blade` `MySQL`
-- **[PHP-Laravel-Web-Project](https://github.com/ntbch/PHP-Laravel-Web-Project)**  
-  *A secure, interactive web system connecting robust Laravel REST APIs to a responsive Vue.js frontend.*  
-  `Laravel` `Vue.js` `REST API` `Tailwind`
-- **[web-nang-cao](https://github.com/ntbch/web-nang-cao)**  
-  *An advanced MVC-focused web application exploring custom routing, database migrations, and clean OOP conventions.*  
-  `PHP` `Laravel` `Blade` `MVC`
-
-#### 📊 Data Analysis & OOP
-- **[Sales-Analysis-and-Forecasting](https://github.com/ntbch/Sales-Analysis-and-Forecasting)**  
-  *A Jupyter Notebook data science workflow investigating historical retail trends, cleaning data, and training predictive forecasting models.*  
-  `Python` `Jupyter Notebook` `Pandas` `Scikit-Learn`
-- **[OOP_N01_Term3_2025_K17_Group9](https://github.com/ntbch/OOP_N01_Term3_2025_K17_Group9)**  
-  *Collaborative Java codebase demonstrating Object-Oriented design patterns, SOLID principles, and clean system interfaces.*  
-  `Java` `OOP` `SOLID`
-
----
-
-### 📊 GitHub Insights & Metrics
-
-#### 📈 Contribution Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ntbch&theme=tokyonight&bg_color=1a1b26&color=38bdf8&line=38bdf8&point=7aa2f7&area=true&hide_border=true" alt="ntbch's Activity Graph" width="100%" />
-</div>
-
-#### 📊 Core Developer Metrics
-<div align="center">
-  <p align="center">
-    <img src="https://github-stats-extended.vercel.app/api?username=ntbch&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </p>
-  <p align="center">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ntbch&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntbch&theme=tokyonight" alt="GitHub Streak" />
-  </p>
 </div>
 
 ---
 
-### 📫 Connection Endpoints
+## 🧑‍💻 About Me
+
+```yaml
+name:       Bach Nguyen
+role:       Mobile & Full-Stack Engineer
+location:   Vietnam 🇻🇳  (GMT+7)
+languages:  [Vietnamese, English, "...Japanese 🇯🇵 (in progress)"]
+core_stack: [Flutter, Dart, Laravel, PHP, Vue.js]
+philosophy: [Clean Architecture, SOLID, DRY, Test-First]
+currently:  "Building cross-platform apps & learning Kanji"
+coffee:     true
+```
+
+I'm a software engineer who believes **great software starts long before the first line of code** — in clean abstractions, thoughtful system design, and empathy for the end user. I specialise in cross-platform mobile with Flutter and scalable web backends with Laravel, and I'm obsessed with the intersection of engineering rigour and beautiful UX.
+
+> *"First, solve the problem. Then, write the code."*
+
+---
+
+## 🛠 Tech Arsenal
 
 <div align="center">
 
-| Protocol | Address |
-|---|---|
-| **SMTP / Email** | [`ntbch.work@gmail.com`](mailto:ntbch.work@gmail.com) |
-| **GitHub URI** | [`github.com/ntbch`](https://github.com/ntbch) |
+#### 📱 Mobile
+
+[![Flutter](https://skillicons.dev/icons?i=flutter,dart)](https://flutter.dev)
+
+#### 🌐 Web & Backend
+
+[![Web](https://skillicons.dev/icons?i=laravel,php,vue,js,tailwind)](https://laravel.com)
+
+#### 🗄 Data & Infrastructure
+
+[![Data](https://skillicons.dev/icons?i=mysql,sqlite,git,github,python,java)](https://mysql.com)
+
+#### 🔬 Analysis & Tooling
+
+[![Tools](https://skillicons.dev/icons?i=jupyter,vscode,figma)](https://jupyter.org)
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+### 📱 Mobile Engineering
+
+| Project | What it does | Stack |
+|--------|-------------|-------|
+| [**mobile**](https://github.com/ntbch/mobile) | High-fidelity cross-platform app engineered with clean architecture and native-level performance | `Flutter` `Dart` `Clean Arch` |
+| [**Japanese Learning App**](https://github.com/ntbch/Japanese-Learning-App) | Interactive vocabulary, grammar & Kanji companion with offline-first storage and state management | `Flutter` `Dart` `SQLite` |
+
+### 🌐 Full-Stack Web
+
+| Project | What it does | Stack |
+|--------|-------------|-------|
+| [**Personal Finance Manager**](https://github.com/ntbch/Personal-Finance-Management) | Full dashboard for budgeting, account tracking, and transaction reporting | `Laravel` `PHP` `Blade` `MySQL` |
+| [**Laravel × Vue SPA**](https://github.com/ntbch/PHP-Laravel-Web-Project) | REST API backend paired with a reactive Vue.js frontend, secured and scalable | `Laravel` `Vue.js` `REST API` `Tailwind` |
+| [**Advanced MVC App**](https://github.com/ntbch/web-nang-cao) | Deep-dive into custom routing, migrations, and clean OOP conventions in PHP | `PHP` `Laravel` `Blade` `MVC` |
+
+### 📊 Data & Systems
+
+| Project | What it does | Stack |
+|--------|-------------|-------|
+| [**Sales Forecasting**](https://github.com/ntbch/Sales-Analysis-and-Forecasting) | End-to-end data workflow: cleaning, EDA, and training predictive retail models | `Python` `Pandas` `Scikit-Learn` |
+| [**OOP Design Patterns**](https://github.com/ntbch/OOP_N01_Term3_2025_K17_Group9) | Collaborative Java project demonstrating SOLID principles and design patterns | `Java` `OOP` `SOLID` |
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ntbch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b26" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntbch&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ntbch&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ntbch&theme=tokyo-night&bg_color=1a1b26&color=38bdf8&line=38bdf8&point=7aa2f7&area=true&hide_border=true" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ntbch&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&column=7" width="100%" />
+</div>
+
+---
+
+## 🌱 Currently
+
+```
+📱  Shipping a Flutter app with BLoC + Clean Architecture
+🌐  Deepening Laravel + Inertia.js expertise
+🇯🇵  Japanese grind: N5 → N4 (Kanji is my final boss)
+📖  Reading: Clean Architecture — Robert C. Martin
+```
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<a href="mailto:ntbch.work@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ntbch.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/ntbch">
+  <img src="https://img.shields.io/badge/GitHub-ntbch-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+*Always open to exciting collaborations, freelance projects, and interesting conversations.*
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
