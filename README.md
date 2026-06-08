@@ -99,7 +99,7 @@ I am a software engineer based in Vietnam, specialized in cross-platform mobile 
 
 | Protocol | Address |
 |---|---|
-| **SMTP / Email** | [`ntbch.work@gmail.com`](mailto:ntbch.work@gmail.com) |
+| **SMTP / Email** | [`nguyenbachtung181@gmail.com`](mailto:nguyenbachtung181@gmail.com) |
 | **GitHub URI** | [`github.com/ntbch`](https://github.com/ntbch) |
 
 </div>
