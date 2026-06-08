@@ -129,7 +129,7 @@ I'm a software engineer who believes **great software starts long before the fir
 <div align="center">
 
 <a href="mailto:nguyenbachtung181@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ntbch.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-nguyenbachtung181%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/ntbch">
