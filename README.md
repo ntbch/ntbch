@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web-green?style=flat-square" alt="Focus" />
 </p>
 
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
