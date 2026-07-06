@@ -46,18 +46,6 @@ Python/Jupyter data analysis and Java OOP practice projects.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ntbch&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntbch&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 ### Thanks for visiting 👋
