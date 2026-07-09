@@ -30,7 +30,7 @@ I'm a developer from Vietnam, learning and building projects with mobile apps, w
 
 ### ⚽ Football Verse
 
-A football community platform with news, forum, user profiles, admin features, and future match simulation.
+A football community platform with news, forum, user profiles, admin features, realtime match prediction and match simulation.
 
 ### 📱 Mobile Apps
 
